@@ -1,0 +1,2 @@
+Nesta pasta temos um processo de ETL feito através do Pentaho para a criação de um pequeno Data Warehouse. 
+Os arquivos de origem estão nos formatos CSV e Excel, porém eles foram transformados em tabelas do banco de dados MySQL.
