@@ -1,0 +1,8 @@
+Projeto de uma análise de vendas, desde a criação do banco de dados, ETL, modelagem e finalizando com
+um dashboard para apresentação.
+
+Arquivos:
+-Script SQL para criação do banco de dados;
+-Arquivo CSV de avaliação de produtos;
+-Arquivos do Pentaho para criação das tabelas fato e dimensões;
+-Arquivo do Power BI com o dashboard com o resultado final.
